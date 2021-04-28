@@ -239,3 +239,13 @@ function evenCaps(sentence) {
 ```
 
 ### Tasks 6: Complete all JavaScript Problems
+
+- [ ] 1-tripler.js
+- [ ] 2-odd-range.js
+- [ ] 3-is-prime.js
+- [ ] 4-cat-builder.js
+- [ ] 5-value-pairs.js
+- [ ] 6-does-key-exists.js
+- [ ] 7-adults.js
+- [ ] 8-count-scores.js
+- [ ] 9-decomposition.js
