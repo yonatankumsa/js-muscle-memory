@@ -17,3 +17,4 @@ function tripler(array) {
     }
   
     console.log(tripler([3,4,5]))
+  
