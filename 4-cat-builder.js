@@ -35,3 +35,4 @@ return newobj
 }
 const cat1 = catBuilder('Garfield', 'golden', ['scratching-post', 'yarn']);
 console.log("cat1")
+      

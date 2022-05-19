@@ -15,8 +15,8 @@ let newarr=[]
 for(let i=0;i<end;i++)     
 if(i%2!==0){
     newarr.push(i)
-}
+}    
 return newarr
 
 }
-console.log(oddRange(15))
+console.log(oddRange(15))     

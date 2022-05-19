@@ -18,7 +18,7 @@ const object2 = {name: 'Two', location: 'San Francisco'};
 
 function valuePair(obj1, obj2, key) {
 
-
+  
   let result = [obj1[key], obj2[key]]
     return result
 }
