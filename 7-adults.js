@@ -22,5 +22,5 @@ function adults(people) {
       result.push(people[i].name)
     }
   }
-  return old
+  return result
 }

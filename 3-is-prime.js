@@ -22,5 +22,5 @@ function isPrime(number) {
     }
     return true
 }
-console.log(isPrime(89))
+console.log(isPrime(7))
 

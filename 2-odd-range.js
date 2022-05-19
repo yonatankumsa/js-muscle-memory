@@ -8,11 +8,15 @@ oddRange(13); // => [ 1, 3, 5, 7, 9, 11, 13 ]
 oddRange(6); // => [ 1, 3, 5 ]
 ******************************************************************************/
 
+
 function oddRange(end) {
- const myArr = []
-    for (let i = 1; i <= end; i+2){
-        myArr.push(i)
-    }
-    return myArr
+
+let newarr=[]
+for(let i=0;i<end;i++)     
+if(i%2!==0){
+    newarr.push(i)
 }
-console.log(oddRange(13)) 
+return newarr
+
+}
+console.log(oddRange(15))
