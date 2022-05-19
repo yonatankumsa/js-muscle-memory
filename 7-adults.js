@@ -24,4 +24,3 @@ function adults(people) {
   }
   return old
 }
-

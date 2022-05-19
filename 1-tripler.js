@@ -16,5 +16,5 @@ function tripler(array) {
       return myArr
     }
   
-    console.log(tripler([3,4,5]))
+    console.log(tripler([31,12,5]))
   
